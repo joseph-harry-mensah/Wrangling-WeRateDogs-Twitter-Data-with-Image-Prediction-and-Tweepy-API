@@ -4,8 +4,9 @@
 - Twitter Image Prediction (Image_predictions.tsv) was dowloaded programmatically from URL using the Requests library
 - Additional data from Twitter was downloaded using Twitter API (Tweepy) as stored as tweets_data.txt
 
-### Data was then assessed visually and programmatically before being cleaned for exploratory analysis    
-_NB: API keys were removed from the work before submitting._
+### Data was then assessed visually and programmatically before being cleaned for exploratory analysis
+
+#### _NB: API keys were removed from the work before submitting._
 
 ## Libraries : 
 > - `Twitter API (Tweepy)`
