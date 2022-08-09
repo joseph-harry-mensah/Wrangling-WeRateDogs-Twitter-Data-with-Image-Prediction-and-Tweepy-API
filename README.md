@@ -6,3 +6,11 @@
 
 ### Data was then assessed visually and programmatically before being cleaned for exploratory analysis    
 _NB: API keys were removed from the work before submitting._
+
+## Libraries : 
+> - `Twitter API (Tweepy)`
+> - `Requests Library`
+> - `Numpy`
+> - `Matplotlib.pyplot`
+> - `Pandas`
+> - `Json`
